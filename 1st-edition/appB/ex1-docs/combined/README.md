@@ -1,4 +1,0 @@
-Combined
-========
-
-** TODO: Add description **
